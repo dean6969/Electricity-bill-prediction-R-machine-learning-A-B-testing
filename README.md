@@ -1,4 +1,4 @@
-# Predict Bike-Sharing need in Metropolitan Area
+# Monthly Utility Bill Prediction
 
 <img src="https://i.imgur.com/Q59tXx6.png" width="500">
 
