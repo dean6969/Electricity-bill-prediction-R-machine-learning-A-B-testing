@@ -1,9 +1,8 @@
-# Applied data analysis 5149
+# Predict Bike-Sharing need in Metropolitan Area
 
 <img src="https://i.imgur.com/Q59tXx6.png" width="500">
 
-In this part we implement different machine learning models to find the best one. They were developed on the unit FIT5149 on the Master of Data Science from Monash University.
-
+In this part we implement different machine learning models to find the best one. How bike could be predict needed in Metro area.
 ## Installation
 
 Use the function `install.packages()`to install needed packages.
